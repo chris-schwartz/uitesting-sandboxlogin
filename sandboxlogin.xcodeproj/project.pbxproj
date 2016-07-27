@@ -61,7 +61,6 @@
 			children = (
 				837A95CC1D43EEF300C1E922 /* sandboxlogin */,
 				837A95E11D43EEF300C1E922 /* sandboxloginUITests */,
-				837A95CB1D43EEF300C1E922 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -72,6 +71,7 @@
 				837A95DE1D43EEF300C1E922 /* sandboxloginUITests.xctest */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		837A95CC1D43EEF300C1E922 /* sandboxlogin */ = {
@@ -91,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				837A95E21D43EEF300C1E922 /* sandboxloginUITests.swift */,
+				837A95CB1D43EEF300C1E922 /* Products */,
 				837A95E41D43EEF300C1E922 /* Info.plist */,
 			);
 			path = sandboxloginUITests;
@@ -388,6 +389,7 @@
 				837A95E91D43EEF300C1E922 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		837A95EA1D43EEF300C1E922 /* Build configuration list for PBXNativeTarget "sandboxloginUITests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +398,7 @@
 				837A95EC1D43EEF300C1E922 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
